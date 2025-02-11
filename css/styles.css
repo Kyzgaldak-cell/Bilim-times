@@ -50,3 +50,30 @@ p {
 button {
     font-size: 22px; /* Размер шрифта на кнопках */
 }
+body {
+    font-size: 18px; /* Устанавливает размер шрифта по умолчанию */
+}
+
+h1 {
+    font-size: 36px; /* Размер заголовков */
+}
+
+p {
+    font-size: 20px; /* Размер обычного текста */
+}
+
+button {
+    font-size: 22px; /* Размер шрифта на кнопках */
+}
+
+@media (max-width: 768px) {
+    body {
+        font-size: 16px;
+    }
+    h1 {
+        font-size: 28px;
+    }
+    p {
+        font-size: 18px;
+    }
+}
