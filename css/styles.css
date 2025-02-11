@@ -24,32 +24,6 @@ button:hover {
     background-color: #ffa500;
     transform: scale(1.1);
 }
-
-/* Делаем адаптивный дизайн */
-@media (max-width: 768px) {
-    body {
-        font-size: 16px;
-    }
-    button {
-        font-size: 16px;
-        padding: 8px 15px;
-    }
-}
-body {
-    font-size: 18px; /* Устанавливает размер шрифта по умолчанию */
-}
-
-h1 {
-    font-size: 36px; /* Размер заголовков */
-}
-
-p {
-    font-size: 20px; /* Размер обычного текста */
-}
-
-button {
-    font-size: 22px; /* Размер шрифта на кнопках */
-}
 body {
     font-size: 18px; /* Устанавливает размер шрифта по умолчанию */
 }
@@ -77,3 +51,5 @@ button {
         font-size: 18px;
     }
 }
+
+
