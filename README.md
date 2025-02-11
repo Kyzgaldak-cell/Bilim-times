@@ -1,1 +1,1 @@
-# Bilim-times
+# Ойын-times
